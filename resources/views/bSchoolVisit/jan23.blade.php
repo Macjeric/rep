@@ -40,27 +40,27 @@
 
         <div class="flex justify-center">
             <h3>
-                 Longido Installation
+                 School Visit
             </h3>
         </div>
 
         <p class="ml-84">
-            Thurs, 22 Oct 2020
+            Tue, 26 Jan 2021
         </p>
 
         <h4>
-            Checklist for Lab Installation
+            Checklist for School Visits
         </h4>
         
         <div class="flex justify-between">
             
             <div><p>
-                School : Engarenaibor
+                School : Kiranyi
             </p></div>
 
            <div class="flex">
             <img class="mr-2" src="/imgs/pin.png" width="25" height="20">
-            -2.534056,36.492222
+            -2.73423,36.70610
            </div>
                 
                 
@@ -78,45 +78,64 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td class="border px-4 py-2">Install Network Switch</td>
+                      <td class="border px-4 py-2">1. Install additional units (If they are available)</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">10:50</td>
+                      <td class="border px-4 py-2">10:30</td>
                     </tr>
                     <tr class="bg-gray-100">
-                      <td class="border px-4 py-2">Set up server, UPS, voltage stabilizer</td>
+                      <td class="border px-4 py-2">2. systemCheck</td>
+                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <!-- <td class="border px-4 py-2">1,280</td> -->
+                    </tr>
+                    </tr>
+                    <tr>
+                      <td class="border px-4 py-2">3. check disk usage (df -h)</td>
+                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <!-- <td class="border px-4 py-2">1,280</td> -->
+                    </tr>
+                    <tr class="bg-gray-100">
+                      <td class="border px-4 py-2">4. run checkUserHomeSize</td>
+                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <!-- <td class="border px-4 py-2">1,280</td> -->
+                    </tr>
+                    <tr>
+                      <td class="border px-4 py-2">5. endOfYearCleanup</td>
+                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <!-- <td class="border px-4 py-2">10:30</td> -->
+                    </tr> 
+                    <tr class="bg-gray-100">
+                      <td class="border px-4 py-2">6. updateStudentList</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">112</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Plug in Ethernet cables to clients [one-by-one test, add labels]</td>
+                      <td class="border px-4 py-2">7. reporter.py</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
                     <tr class="bg-gray-100">
-                      <td class="border px-4 py-2">Reset BIOS of clients</td>
+                      <td class="border px-4 py-2">8. computer & equipments conditions</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">112</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Number computers</td>
+                      <td class="border px-4 py-2">9. count the units (remind schools that had theft that they must replace those units)</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
-                    <tr>
-                      <td class="border px-4 py-2">Memory check</td>
+                    <tr class="bg-gray-100">
+                      <td class="border px-4 py-2">10. remind super user to:
+                        <li>run systemCheck regularly</li>
+                        <li>never use the sysadmin account for their regular teacher work – they must use their personal teacher account</li>
+                      </td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <td class="border px-4 py-2">16:25</td>
+
+
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
-                    <tr>
-                      <td class="border px-4 py-2">Remind computer teacher to create teacher and student spreadsheets</td>
-                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <!-- <td class="border px-4 py-2">1,280</td> -->
-                    </tr>
-                    <tr>
-                      <td class="border px-4 py-2">Provide donation letter</td>
-                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">14:44</td>
-                    </tr>
+                    
+                    
                     
                   </tbody>
                 </table>
@@ -125,33 +144,39 @@
 
 
         <div class="mt-5">
-            <p class="text-xl font-semibold">Issues</p>
-            <p>
-                There were no issues found.
-            </p>
+            <p class="text-xl font-semibold">Issues</p>    
+                <li> Several peripherals they have are not working - monitors, keyboards</li>                      
+                <li> They need to add new extensions to connect the whole room </li>
+                <li> Their desktops are very old, that they stack on the startup boot</li>
+                <!-- <li> Some desktops are missing internal parts such as NIC for ethernet connectivity</li> -->
         </div>
+
+        <div class="mt-5">
+            <p class="text-xl font-semibold">Advise to them</p>
+            <li>They need to find desktops that are in good conditions from what they have </li>
+            <!-- <li>To </li> -->
 
         <hr></hr>
         <div >
             <p class="mt-8 font-medium">
-            Participants:</p><p>
+            <!-- Participants:</p><p>
             Evance Kessy, Elibariki Melami, Anorld Christopher, Collins Moshi, Ashura Yusuph.
-        </p>    
+        </p>     -->
         <p class="mt-1">
-            Robert Nyangaka, Erick Macky.
+            Robert Nyangaka, Anorld Christopher, David Nyangaka, Erick Macky.
         </p>
         </div><hr>
 
         <div class=" flex justify-center mt-8">
-            <img src="/imgs/anm.png" width="80" height="80">
+            <!-- <img src="/imgs/anm.png" width="80" height="80"> -->
 
-            <img src="/imgs/ren.png" width="80" height="80">
+            <!-- <img src="/imgs/ren.png" width="80" height="80"> -->
 
         </div> 
 
         <div>
             <p>
-                habari.co.tz | reneal.org
+                 reneal.org
             </p>
         </div>
 

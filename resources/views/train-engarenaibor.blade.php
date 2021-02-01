@@ -45,11 +45,11 @@
         </div>
 
         <p class="ml-84">
-            Thurs, 22 Oct 2020
+            Mon, 26 Oct 2020
         </p>
 
         <h4>
-            Checklist for Lab Installation
+            Checklist for Lab Training
         </h4>
         
         <div class="flex justify-between">
@@ -78,46 +78,53 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td class="border px-4 py-2">Install Network Switch</td>
+                      <td class="border px-4 py-2">Create teacher accounts from spreadsheet</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">10:50</td>
+                      <td class="border px-4 py-2">12:40</td>
                     </tr>
                     <tr class="bg-gray-100">
-                      <td class="border px-4 py-2">Set up server, UPS, voltage stabilizer</td>
+                      <td class="border px-4 py-2">Create student database</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">112</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Plug in Ethernet cables to clients [one-by-one test, add labels]</td>
+                      <td class="border px-4 py-2">Coordinate orientation schedule</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
                     <tr class="bg-gray-100">
-                      <td class="border px-4 py-2">Reset BIOS of clients</td>
+                      <td class="border px-4 py-2">Work on Internet</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">112</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Number computers</td>
+                      <td class="border px-4 py-2">Application tests (LibreOffice, Firefox, etc.)</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Memory check</td>
+                      <td class="border px-4 py-2">System loading tests</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Remind computer teacher to create teacher and student spreadsheets</td>
+                      <td class="border px-4 py-2">Get signed donation letter</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
                       <!-- <td class="border px-4 py-2">1,280</td> -->
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">Provide donation letter</td>
+                      <td class="border px-4 py-2">Super User training</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">14:44</td>
+                      <!-- <td class="border px-4 py-2"></td> -->
                     </tr>
+                     <tr>
+                      <td class="border px-4 py-2">Teacher orientation for all teachers</td>
+                      <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
+                      <td class="border px-4 py-2">15:04</td>
+                    </tr>
+         
                     
+
                   </tbody>
                 </table>
 
@@ -125,20 +132,20 @@
 
 
         <div class="mt-5">
-            <p class="text-xl font-semibold">Issues</p>
+            <p class="text-xl font-semibold">Notes</p>
             <p>
-                There were no issues found.
+                Super Users are collaborative and catching up early.
             </p>
         </div>
 
         <hr></hr>
         <div >
             <p class="mt-8 font-medium">
-            Participants:</p><p>
-            Evance Kessy, Elibariki Melami, Anorld Christopher, Collins Moshi, Ashura Yusuph.
+            Superusers:</p><p>
+            Fanuel Juma Daniel, Getruda Benedict Joseph
         </p>    
         <p class="mt-1">
-            Robert Nyangaka, Erick Macky.
+            <!-- Erick Macky. -->
         </p>
         </div><hr>
 

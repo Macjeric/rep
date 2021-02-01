@@ -45,7 +45,7 @@
         </div>
 
         <p class="ml-84">
-            Thurs, 22 Oct 2020
+            Tue, 13 Oct 2020
         </p>
 
         <h4>
@@ -55,7 +55,7 @@
         <div class="flex justify-between">
             
             <div><p>
-                School : Engarenaibor
+                School : Longido A-level
             </p></div>
 
            <div class="flex">

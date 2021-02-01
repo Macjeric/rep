@@ -40,12 +40,12 @@
 
         <div class="flex justify-center">
             <h3>
-                 Longido Installation
+                 Arusha Installation
             </h3>
         </div>
 
         <p class="ml-84">
-            Thurs, 22 Oct 2020
+            Thur, 12 Nov 2020
         </p>
 
         <h4>
@@ -55,12 +55,12 @@
         <div class="flex justify-between">
             
             <div><p>
-                School : Engarenaibor
+                School : Arusha Girls
             </p></div>
 
            <div class="flex">
             <img class="mr-2" src="/imgs/pin.png" width="25" height="20">
-            -2.534056,36.492222
+            -3.387252, 36.628908
            </div>
                 
                 
@@ -80,7 +80,7 @@
                     <tr>
                       <td class="border px-4 py-2">Install Network Switch</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">10:50</td>
+                      <td class="border px-4 py-2">10:12</td>
                     </tr>
                     <tr class="bg-gray-100">
                       <td class="border px-4 py-2">Set up server, UPS, voltage stabilizer</td>
@@ -115,7 +115,7 @@
                     <tr>
                       <td class="border px-4 py-2">Provide donation letter</td>
                       <td class="border px-4 py-2"><img src="/imgs/check.png" width="30" height="30"></td>
-                      <td class="border px-4 py-2">14:44</td>
+                      <td class="border px-4 py-2">11:40</td>
                     </tr>
                     
                   </tbody>
@@ -135,10 +135,10 @@
         <div >
             <p class="mt-8 font-medium">
             Participants:</p><p>
-            Evance Kessy, Elibariki Melami, Anorld Christopher, Collins Moshi, Ashura Yusuph.
+            Evance Kessy, Collins Moshi, Ashura Yusuph.
         </p>    
         <p class="mt-1">
-            Robert Nyangaka, Erick Macky.
+           David Nyangaka, Robert Nyangaka, Erick Macky.
         </p>
         </div><hr>
 
